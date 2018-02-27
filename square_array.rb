@@ -5,3 +5,6 @@ def square_array(numbers)
     end
   numbers=new_array
 end
+
+def square_array(new_numbers)
+end
